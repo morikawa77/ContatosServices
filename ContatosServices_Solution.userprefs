@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{924C7366-E1B2-4E8E-9774-EE3426A4CD47}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/UsuariosController.cs">
+    <Files>
+      <File FileName="Models/ContatosContext.cs" Line="22" Column="1" />
+      <File FileName="Contatos.Modelo/Properties/AssemblyInfo.cs" Line="8" Column="12" />
+      <File FileName="Contatos.Modelo/Evento.cs" Line="11" Column="24" />
+      <File FileName="Contatos.Modelo/Pessoa.cs" Line="9" Column="20" />
+      <File FileName="Contatos.Modelo/Usuario.cs" Line="9" Column="20" />
+      <File FileName="Controllers/UsuariosController.cs" Line="15" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ContatosServices PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

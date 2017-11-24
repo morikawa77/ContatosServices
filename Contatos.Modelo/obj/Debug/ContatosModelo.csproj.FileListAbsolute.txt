@@ -1,0 +1,11 @@
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/ContatosServices/Contatos.Modelo/bin/Debug/Contatos.Modelo.dll.config
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/ContatosServices/Contatos.Modelo/bin/Debug/Contatos.Modelo.dll
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/ContatosServices/Contatos.Modelo/bin/Debug/Contatos.Modelo.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/ContatosServices/Contatos.Modelo/bin/Debug/EntityFramework.dll
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/ContatosServices/Contatos.Modelo/bin/Debug/EntityFramework.SqlServer.dll
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/ContatosServices/Contatos.Modelo/bin/Debug/EntityFramework.xml
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/ContatosServices/Contatos.Modelo/bin/Debug/EntityFramework.SqlServer.xml
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/ContatosServices/Contatos.Modelo/obj/Debug/ContatosModelo.csprojResolveAssemblyReference.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/ContatosServices/Contatos.Modelo/obj/Debug/ContatosModelo.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/ContatosServices/Contatos.Modelo/obj/Debug/Contatos.Modelo.dll
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/ContatosServices/Contatos.Modelo/obj/Debug/Contatos.Modelo.pdb
